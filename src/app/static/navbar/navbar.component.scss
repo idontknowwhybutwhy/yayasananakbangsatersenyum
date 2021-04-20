@@ -1,0 +1,28 @@
+nav {
+    background: white;
+}
+
+img {
+    height: 45px;
+    width: 65px;
+    border-radius: 50%;
+}
+
+.nav_scroll {
+    background: rgb(255, 255, 255);
+}
+
+.dropdown-menu {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+@media only screen and (min-width: 768px) {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+
+    nav {
+        background: transparent;
+    }
+}
+

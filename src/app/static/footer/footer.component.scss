@@ -1,0 +1,43 @@
+footer {
+    // box-shadow: 0 0px 2px rgba(0, 0, 0, 0.2);
+    // background: linear-gradient(to right top, rgb(0, 170, 255), rgba(191, 0, 255, 0.7));
+ 
+    background:  rgb(0, 170, 255);
+}
+
+.col-md-4 {
+    margin-top: 50px;
+}
+
+img {
+    height: 150px;
+    border-radius: 50%;
+}
+
+.love {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-media-f {
+    height: 57px;
+}
+
+.social-media-i {
+    height: 70px;
+}
+
+.phone {
+    height: 40px;
+}
+
+.email {
+    height: 40px;
+}
+
+hr {
+    background: linear-gradient(to right, rgb(0, 170, 255), rgba(191, 0, 255, 0.7), rgb(0, 170, 255));
+  }
+
+
